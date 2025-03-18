@@ -1,9 +1,8 @@
 # Anatomical Consistency and Adaptive Prior-informed Transformation for Multi-contrast MR Image Synthesis via Diffusion Model
-The official code of APT
 
 [![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/) 
 
-This repo contains the code for our paper published in CVPR 2025.
+This repo will contain the code for our paper published in CVPR 2025.
 
 
 ![Image](https://github.com/user-attachments/assets/018e5b7d-8760-4047-b41c-2eb908691775)
