@@ -16,4 +16,4 @@ This repo will contain the code for our paper published in CVPR 2025.
 
 ## Acknowledgments
 
-* This repo is mainly based on [guided-diffusion](https://github.com/openai/guided-diffusion).
+* This repo is mainly based on [guided-diffusion](https://github.com/openai/guided-diffusion) and [CLIP](https://github.com/openai/CLIP).
