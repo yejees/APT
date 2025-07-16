@@ -58,6 +58,7 @@ bash run_3_to_1.sh
 ## Citation
 If you found APT useful in your research, please consider starring ⭐ us on GitHub and citing 📚 us in your research!
 
+```bibtex
 @inproceedings{shin2025anatomical,
   title={Anatomical Consistency and Adaptive Prior-informed Transformation for Multi-contrast MR Image Synthesis via Diffusion Model},
   author={Shin, Yejee and Lee, Yeeun and Jang, Hanbyol and Son, Geonhui and Kim, Hyeongyu and Hwang, Dosik},
@@ -65,6 +66,7 @@ If you found APT useful in your research, please consider starring ⭐ us on Git
   pages={30918--30927},
   year={2025}
 }
+```
 
 ## Acknowledgments
 
