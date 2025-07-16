@@ -11,7 +11,7 @@ This repo contains the code for our paper published in CVPR 2025: <a href="https
 
 ## For training MIF layer
 
-
+- Enviroment Setting
 ```
 $ cd ./adapter
 $ conda create -n clip python=3.10  # 원하는 버전 지정
@@ -19,12 +19,39 @@ $ conda activate clip
 $ pip install -e . 
 
 ```
+- For training
+```
+bash train.sh
+```
 
-## Execution Instructions
+## For training diffusion model
 - Environment Setting
 
 ```
 bash install.sh
+```
+- For training
+```
+bash train_multi.sh
+```
+
+## For constructing prior codebook
+
+```
+python prior_codebook.py
+
+```
+
+  ## For Inference
+- 3 types of inference: One to three, two to two, three to one MR Image synthesis
+```
+bash run_1_to_3.sh
+```
+```
+bash run_2_to_2.sh
+```
+```
+bash run_3_to_1.sh
 ```
 
 
