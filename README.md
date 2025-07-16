@@ -14,10 +14,9 @@ This repo contains the code for our paper published in CVPR 2025: <a href="https
 - Enviroment Setting
 ```
 $ cd ./adapter
-$ conda create -n clip python=3.10  # 원하는 버전 지정
+$ conda create -n clip python=3.10 
 $ conda activate clip
 $ pip install -e . 
-
 ```
 - For training
 ```
