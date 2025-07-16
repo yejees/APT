@@ -40,7 +40,6 @@ bash train_multi.sh
 
 ```
 python prior_codebook.py
-
 ```
 > **Note**: For BRATS inference, the uploaded code already includes the pre-constructed prior codebook. Therefore, you do **not** need to run `prior_codebook.py` separately when using the BRATS dataset.
 
