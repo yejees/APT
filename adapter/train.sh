@@ -1,0 +1,1 @@
+mpiexec -n 4 python train.py --data_dir data_path --batch_size 512 --epochs 500 --save_interval 100
