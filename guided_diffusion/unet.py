@@ -17,8 +17,7 @@ from .nn import (
     normalization,
     timestep_embedding,
 )
-import sys
-sys.path.append('/mnt/yj/synthesis/segment-anything/segment_anything')
+
 from modeling.transformer import Attention as S_ATTENTION
 from .attention import SpatialTransformer
 
