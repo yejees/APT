@@ -18,7 +18,7 @@ from .nn import (
     timestep_embedding,
 )
 
-from modeling.transformer import Attention as S_ATTENTION
+from .transformer import Attention as S_ATTENTION
 from .attention import SpatialTransformer
 
 class AttentionPool2d(nn.Module):
